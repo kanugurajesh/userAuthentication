@@ -1,0 +1,22 @@
+{
+  "name": "deletelater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "install": "cd Frontend && npm install && cd .. && cd Backend && npm install && cd ..",
+    "build": "cd Frontend && npm run build && cd .. && cd Backend && npm run build && cd ..",
+    "start": "cd Backend && npm start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/bcrypt": "^5.0.0",
+    "@types/jsonwebtoken": "^9.0.2",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.5.0"
+  }
+}
