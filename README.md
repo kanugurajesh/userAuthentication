@@ -40,6 +40,8 @@ Install dependencies
 Start the server
 
 ```bash
+  npm run build
+  add data.json and forgetemail.json in dist folder
   npm run start
 ```
 
