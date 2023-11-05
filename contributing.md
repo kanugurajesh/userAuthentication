@@ -1,6 +1,6 @@
 ## Contributing to userAuthentication
 
-We welcome contributions from all members of the community. By contributing to [Project Name], you help us make it better for everyone.
+We welcome contributions from all members of the community. By contributing to userAuthentication, you help us make it better for everyone.
 
 **How to contribute**
 
